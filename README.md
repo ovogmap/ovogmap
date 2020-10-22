@@ -1,5 +1,7 @@
-### Hi there 👋
+### 안녕하세요!? 👋
 
+웹 프론트엔드 개발 공부중인 이정곤이라고 합니다 :)
+현재는 React js 공부중에있습니다~!
 <!--
 **ovogmap/ovogmap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
