@@ -1,6 +1,8 @@
 ### 안녕하세요!? 👋
 
 웹 프론트엔드 개발 공부중인 이정곤이라고 합니다 :)
+
+React js, Next Js, React Native, Rest API, Graphql 등을 사용해본경험이 있고 계속해서 공부하고 배워나가는 중입니다!
 <!--
 **ovogmap/ovogmap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
