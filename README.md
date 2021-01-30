@@ -6,7 +6,7 @@ Typescript, React js, Next Js, React Native, Rest API, Graphql 등을 사용해�
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ovogmap&show_icons=true&theme=dark)](https://github.com/ovogmap/github-readme-stats)
+[![JungGone's GitHub stats](https://github-readme-stats.vercel.app/api?username=ovogmap&show_icons=true&theme=dark)](https://github.com/ovogmap/github-readme-stats)
 <!--
 **ovogmap/ovogmap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
