@@ -3,7 +3,7 @@
 프론트엔드 개발자로 일하고 있는 이정곤이라고 합니다 :)
 
 
-### Stack
+## 🖥  Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-brightgreen)
 ![CSS](https://img.shields.io/badge/-CSS-yellowgreen)
