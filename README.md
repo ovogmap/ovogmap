@@ -4,7 +4,7 @@
 
 
 ### Stack
-https://img.shields.io/badge/-typesctipy-blue.614.123-1.141.369-1.582.246-.441.58-.804 1.004-1.089a4.494 4.494 0 0 1 1.47-.629 7.536 7.536 0 0 1 1.77-.201zm-15.113.188h9.563v2.166H9.506v9.646H6.789v-9.646H3.375z"/></svg>
+[!Img](https://img.shields.io/badge/-typesctipy-blue)
 Typescript, React js, Next Js, React Native, Rest API, Graphql 등을 사용해본경험이 있고 계속해서 공부하고 배워나가는 중입니다!
 
 
