@@ -4,7 +4,15 @@
 
 
 ### Stack
-[!Img](https://img.shields.io/badge/-typesctipy-blue)
+
+![HTML](https://img.shields.io/badge/-HTML-brightgreen)
+![CSS](https://img.shields.io/badge/-CSS-yellowgreen)
+![JavaScript](https://img.shields.io/badge/-JavaScript-orange)
+![TypeScript](https://img.shields.io/badge/-TypeScript-red)
+![React.js](https://img.shields.io/badge/-React.js-lightgrey)
+![Next.js](https://img.shields.io/badge/-Next.js-yellow)
+![React Native](https://img.shields.io/badge/-React%20Native-blue)
+
 Typescript, React js, Next Js, React Native, Rest API, Graphql 등을 사용해본경험이 있고 계속해서 공부하고 배워나가는 중입니다!
 
 
