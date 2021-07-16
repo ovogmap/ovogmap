@@ -12,7 +12,7 @@
 ![React.js](https://img.shields.io/badge/-React.js-lightgrey)
 ![Next.js](https://img.shields.io/badge/-Next.js-yellow)
 
-Javascript, Typescript, React js, Next js, Graphql Apollo 
+Javascript, Typescript, React js, Next js, Graphql
 
 
 
