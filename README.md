@@ -15,7 +15,7 @@
 Javascript, Typescript, React js, Next js, Graphql
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ovogmap&layout=compact&theme=vision-friendly-dark)](https://github.com/ovogmap/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ovogmap&layout=compact&theme=dark)](https://github.com/ovogmap/github-readme-stats)
 
 
 
